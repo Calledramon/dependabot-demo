@@ -4,7 +4,7 @@
   "private": true,
   "description": "Throwaway demo for Dependabot alerts - never deploy",
   "dependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.18.1",
     "axios": "0.34.0",
     "minimist": "1.2.0"
   }
